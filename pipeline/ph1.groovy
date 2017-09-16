@@ -6,6 +6,9 @@ stage("asd"){
             sh "java -version"
 
         }
+        stage('Clone sources') {
+            git branch: 'dev', credentialsId: 'github-klaus-spb', url: 'https://github.com/klaus-spb/ansible-configs.git'
+        }
 
     }
 }
