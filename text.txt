@@ -6,3 +6,4 @@ stahing
 hellomoto
 hellomoto2
 tex1
+tex2
