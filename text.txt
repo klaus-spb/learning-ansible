@@ -5,3 +5,5 @@ stashing
 stahing
 hellomoto
 hellomoto2
+tex
+tex2
